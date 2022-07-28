@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is Livia, I'm a Data Analyst
 
 - 🔭 I’m currently working on marketing digital and data analyses 
 - 🌱 I’m currently learning data science, python, power bi and R
