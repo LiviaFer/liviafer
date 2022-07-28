@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Livia, I'm a Data Analyst in a journey to be a Data Scientist
 
-- 🔭 I’m currently working on marketing digital and data analyses 
+- 🔭 I’m currently working on marketing digital and data analysis 
 - 🌱 I’m currently learning data science, python, power bi, R and Machine Learning
 - 👯 I’m looking to collaborate on data science projects and marketing analytics
 - 🤔 I’m looking for help with python, R, SQL, JS
