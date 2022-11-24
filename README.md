@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Livia, I'm a Data Analyst in a journey to be a Data Scientist
+### Hi there 👋 my name is Livia, I'm in a journey to be a Data Scientist
 
 - 🔭 I’m currently working on marketing digital and data analysis 
 - 🌱 I’m currently learning data science, python, power bi, R and Machine Learning
