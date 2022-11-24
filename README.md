@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on marketing digital 
 - 🌱 I’m currently learning data science, python, power bi, R and Machine Learning
 - 👯 I’m looking to collaborate on data science projects and marketing analytics
-- 🤔 I’m looking for help with python, R, SQL, JS
+- 🤔 I’m looking for help with python, R, SQL
 - 💬 Ask me about marketing digital and analytics 
 - 😄 Pronouns: she/her
 
